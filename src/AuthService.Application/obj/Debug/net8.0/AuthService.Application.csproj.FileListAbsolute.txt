@@ -1,0 +1,15 @@
+/home/brau-dev/Documentos/auth-service/src/AuthService.Application/bin/Debug/net8.0/AuthService.Application.deps.json
+/home/brau-dev/Documentos/auth-service/src/AuthService.Application/bin/Debug/net8.0/AuthService.Application.dll
+/home/brau-dev/Documentos/auth-service/src/AuthService.Application/bin/Debug/net8.0/AuthService.Application.pdb
+/home/brau-dev/Documentos/auth-service/src/AuthService.Application/bin/Debug/net8.0/AuthService.Domain.dll
+/home/brau-dev/Documentos/auth-service/src/AuthService.Application/bin/Debug/net8.0/AuthService.Domain.pdb
+/home/brau-dev/Documentos/auth-service/src/AuthService.Application/obj/Debug/net8.0/AuthService.Application.csproj.AssemblyReference.cache
+/home/brau-dev/Documentos/auth-service/src/AuthService.Application/obj/Debug/net8.0/AuthService.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/brau-dev/Documentos/auth-service/src/AuthService.Application/obj/Debug/net8.0/AuthService.Application.AssemblyInfoInputs.cache
+/home/brau-dev/Documentos/auth-service/src/AuthService.Application/obj/Debug/net8.0/AuthService.Application.AssemblyInfo.cs
+/home/brau-dev/Documentos/auth-service/src/AuthService.Application/obj/Debug/net8.0/AuthService.Application.csproj.CoreCompileInputs.cache
+/home/brau-dev/Documentos/auth-service/src/AuthService.Application/obj/Debug/net8.0/AuthService.Application.csproj.CopyComplete
+/home/brau-dev/Documentos/auth-service/src/AuthService.Application/obj/Debug/net8.0/AuthService.Application.dll
+/home/brau-dev/Documentos/auth-service/src/AuthService.Application/obj/Debug/net8.0/refint/AuthService.Application.dll
+/home/brau-dev/Documentos/auth-service/src/AuthService.Application/obj/Debug/net8.0/AuthService.Application.pdb
+/home/brau-dev/Documentos/auth-service/src/AuthService.Application/obj/Debug/net8.0/ref/AuthService.Application.dll

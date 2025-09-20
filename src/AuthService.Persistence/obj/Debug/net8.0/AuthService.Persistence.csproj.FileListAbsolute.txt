@@ -1,0 +1,17 @@
+/home/brau-dev/Documentos/auth-service/src/AuthService.Persistence/bin/Debug/net8.0/AuthService.Persistence.deps.json
+/home/brau-dev/Documentos/auth-service/src/AuthService.Persistence/bin/Debug/net8.0/AuthService.Persistence.runtimeconfig.json
+/home/brau-dev/Documentos/auth-service/src/AuthService.Persistence/bin/Debug/net8.0/AuthService.Persistence.dll
+/home/brau-dev/Documentos/auth-service/src/AuthService.Persistence/bin/Debug/net8.0/AuthService.Persistence.pdb
+/home/brau-dev/Documentos/auth-service/src/AuthService.Persistence/bin/Debug/net8.0/AuthService.Domain.dll
+/home/brau-dev/Documentos/auth-service/src/AuthService.Persistence/bin/Debug/net8.0/AuthService.Domain.pdb
+/home/brau-dev/Documentos/auth-service/src/AuthService.Persistence/obj/Debug/net8.0/AuthService.Persistence.csproj.AssemblyReference.cache
+/home/brau-dev/Documentos/auth-service/src/AuthService.Persistence/obj/Debug/net8.0/AuthService.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/home/brau-dev/Documentos/auth-service/src/AuthService.Persistence/obj/Debug/net8.0/AuthService.Persistence.AssemblyInfoInputs.cache
+/home/brau-dev/Documentos/auth-service/src/AuthService.Persistence/obj/Debug/net8.0/AuthService.Persistence.AssemblyInfo.cs
+/home/brau-dev/Documentos/auth-service/src/AuthService.Persistence/obj/Debug/net8.0/AuthService.Persistence.csproj.CoreCompileInputs.cache
+/home/brau-dev/Documentos/auth-service/src/AuthService.Persistence/obj/Debug/net8.0/AuthService.Persistence.csproj.CopyComplete
+/home/brau-dev/Documentos/auth-service/src/AuthService.Persistence/obj/Debug/net8.0/AuthService.Persistence.dll
+/home/brau-dev/Documentos/auth-service/src/AuthService.Persistence/obj/Debug/net8.0/refint/AuthService.Persistence.dll
+/home/brau-dev/Documentos/auth-service/src/AuthService.Persistence/obj/Debug/net8.0/AuthService.Persistence.pdb
+/home/brau-dev/Documentos/auth-service/src/AuthService.Persistence/obj/Debug/net8.0/AuthService.Persistence.genruntimeconfig.cache
+/home/brau-dev/Documentos/auth-service/src/AuthService.Persistence/obj/Debug/net8.0/ref/AuthService.Persistence.dll
